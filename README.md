@@ -1,3 +1,5 @@
+# 正在迁移到[易用AI](https://easyuseai.com/)，进行中...
+
 # bob-plugin-akl-deepl-free-translate
 无需apiKey;无需账号密码;无需启动服务;免费无限次使用deepl,根据网页版JavaScript加密算法逆向的bobplugin;所以只要官网的算法不改,理论上就可以无限使用
 
