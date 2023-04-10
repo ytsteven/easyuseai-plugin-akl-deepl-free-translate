@@ -1,4 +1,12 @@
 {
   "identifier": "com.akl.easyuseai-plugin-akl-deepl-free-translate",
-  "versions": []
+  "versions": [
+    {
+      "version": "0.0.5",
+      "desc": "update",
+      "sha256": "ebc2bc95557f71bb560d075d5eeaa9e90aa6b078cf2ce940b697713b115d3344",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate/releases/download/v0.0.5/bob-plugin-akl-deepl-free-translate_v0.0.5.aiplugin",
+      "minBobVersion": "0.5.0"
+    }
+  ]
 }
