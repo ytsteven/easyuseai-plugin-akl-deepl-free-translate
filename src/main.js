@@ -64,10 +64,10 @@ function translate(query, completion) {
         if (translate_text !== '') {
             const wordSwitch = $option.wordSwitch;
             // 英文单词判定正则表达式
-            if (wordSwitch == '1' && /^[a-zA-Z,\.\?!'\s]+$/.test(translate_text)
-                && translate_text.split(/\s+/).filter(word => /^[a-zA-Z\s]+$/.test(word)).length === 1) {
-                await wordJs.translate(query, source_lang, target_lang, translate_text, completion);
-            }
+            // if (wordSwitch == '1' && /^[a-zA-Z,\.\?!'\s]+$/.test(translate_text)
+            //     && translate_text.split(/\s+/).filter(word => /^[a-zA-Z\s]+$/.test(word)).length === 1) {
+            //     await wordJs.translate(query, source_lang, target_lang, translate_text, completion);
+            // }
             const url = 'https://www2.deepl.com/jsonrpc';
             let id = getRandomNumber()
             const post_data = initData(source_lang, target_lang);
