@@ -1,4 +1,4 @@
-# 正在迁移到[易用AI](https://easyuseai.com/)，进行中...
+# 已经迁移到易用AI，可下载[易用AI插件](https://github.com/ytsteven/easyuseai-plugin-akl-deepl-free-translate/releases)(.aiplugin)使用 
 
 # bob-plugin-akl-deepl-free-translate
 无需apiKey;无需账号密码;无需启动服务;免费无限次使用deepl,根据网页版JavaScript加密算法逆向的bobplugin;所以只要官网的算法不改,理论上就可以无限使用
