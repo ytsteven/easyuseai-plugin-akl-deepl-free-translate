@@ -2,6 +2,13 @@
   "identifier": "com.akl.easyuseai-plugin-akl-deepl-free-translate",
   "versions": [
     {
+      "version": "0.0.6",
+      "desc": "Merge branch 'main' of https://github.com/ytsteven/easyuseai-plugin-akl-deepl-free-translate",
+      "sha256": "0d3d52e98dbbb48899e259942d3e6ac25e77856e61e63d665a184e83d9c5d0ed",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate/releases/download/v0.0.6/bob-plugin-akl-deepl-free-translate_v0.0.6.aiplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.0.5",
       "desc": "update",
       "sha256": "ebc2bc95557f71bb560d075d5eeaa9e90aa6b078cf2ce940b697713b115d3344",
